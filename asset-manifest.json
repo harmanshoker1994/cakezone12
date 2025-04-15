@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/cakezone12.git/static/css/main.6a78160b.css",
-    "main.js": "/cakezone12.git/static/js/main.91047b2f.js",
-    "static/js/787.4eb629d8.chunk.js": "/cakezone12.git/static/js/787.4eb629d8.chunk.js",
-    "static/media/hero.jpg": "/cakezone12.git/static/media/hero.1f3d677412e70cf16d6b.jpg",
-    "static/media/offer.jpg": "/cakezone12.git/static/media/offer.277d0d07a9a3f0df8b31.jpg",
-    "static/media/service.jpg": "/cakezone12.git/static/media/service.100ba6da75c40df4fae6.jpg",
-    "static/media/about.jpg": "/cakezone12.git/static/media/about.cff1e3da1f7be51e9820.jpg",
-    "static/media/logo.jpg": "/cakezone12.git/static/media/logo.f957e95b08bdaaf69747.jpg",
-    "static/media/team-3.jpg": "/cakezone12.git/static/media/team-3.d7ee919f942fd21690fd.jpg",
-    "static/media/bg.jpg": "/cakezone12.git/static/media/bg.23fd31ca827539b60d74.jpg",
-    "static/media/team-1.jpg": "/cakezone12.git/static/media/team-1.e1290582d49608cdf97b.jpg",
-    "static/media/team-2.jpg": "/cakezone12.git/static/media/team-2.b6f1d324b0357d9dfc5a.jpg",
-    "index.html": "/cakezone12.git/index.html",
-    "main.6a78160b.css.map": "/cakezone12.git/static/css/main.6a78160b.css.map",
-    "main.91047b2f.js.map": "/cakezone12.git/static/js/main.91047b2f.js.map",
-    "787.4eb629d8.chunk.js.map": "/cakezone12.git/static/js/787.4eb629d8.chunk.js.map"
+    "main.css": "/cakezone12/static/css/main.6a78160b.css",
+    "main.js": "/cakezone12/static/js/main.345e5bba.js",
+    "static/js/787.4eb629d8.chunk.js": "/cakezone12/static/js/787.4eb629d8.chunk.js",
+    "static/media/hero.jpg": "/cakezone12/static/media/hero.1f3d677412e70cf16d6b.jpg",
+    "static/media/offer.jpg": "/cakezone12/static/media/offer.277d0d07a9a3f0df8b31.jpg",
+    "static/media/service.jpg": "/cakezone12/static/media/service.100ba6da75c40df4fae6.jpg",
+    "static/media/about.jpg": "/cakezone12/static/media/about.cff1e3da1f7be51e9820.jpg",
+    "static/media/logo.jpg": "/cakezone12/static/media/logo.f957e95b08bdaaf69747.jpg",
+    "static/media/team-3.jpg": "/cakezone12/static/media/team-3.d7ee919f942fd21690fd.jpg",
+    "static/media/bg.jpg": "/cakezone12/static/media/bg.23fd31ca827539b60d74.jpg",
+    "static/media/team-1.jpg": "/cakezone12/static/media/team-1.e1290582d49608cdf97b.jpg",
+    "static/media/team-2.jpg": "/cakezone12/static/media/team-2.b6f1d324b0357d9dfc5a.jpg",
+    "index.html": "/cakezone12/index.html",
+    "main.6a78160b.css.map": "/cakezone12/static/css/main.6a78160b.css.map",
+    "main.345e5bba.js.map": "/cakezone12/static/js/main.345e5bba.js.map",
+    "787.4eb629d8.chunk.js.map": "/cakezone12/static/js/787.4eb629d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a78160b.css",
-    "static/js/main.91047b2f.js"
+    "static/js/main.345e5bba.js"
   ]
 }
